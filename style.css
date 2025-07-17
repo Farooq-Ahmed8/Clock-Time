@@ -1,0 +1,8 @@
+.clock{
+    width: 30%;
+    height: 20vh;
+    font: 500 3rem Verdana;
+    margin-top: 15%;
+    padding-top: 5%;
+    border: 2px solid black;
+}
